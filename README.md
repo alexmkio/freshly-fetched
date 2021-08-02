@@ -13,3 +13,21 @@ Our project is deployed on []().
 3. Install project dependencies `npm install`
 4. Run `npm start`
 5. Open `http://localhost:3000/` in your preferred browser
+
+## Features
+
+<!-- ![Gif of the app home and movie details pages](src/readme/01.gif)
+* Gif of the home page and filtered search
+
+![Gif of filter by day functionality and market details page](src/readme/02.gif)
+* Gif of filter by day functionality and market details page
+
+![Gif showing error handling](src/readme/03.gif)
+* Gif showing error handling
+
+![Gif showing responsiveness of the app](src/readme/04.gif)
+* Gif showing responsiveness of the app from the most popular desktop resolution (1920x1080) to mobile layout in 428x926 (iPhone 12 Pro Max) -->
+
+## Contributors
+
+This application was built by [Ash O'Brien](https://github.com/AshleyOh-bit), [Beth Meeker](https://github.com/Meekb), [Claire Fields](https://github.com/clairefields15), and [Alex Kio](https://github.com/alexmkio/); Front End Engineering, Mod 3 students at the [Turing School of Software and Design](https://turing.io/).
