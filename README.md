@@ -31,3 +31,7 @@ Our project is deployed on []().
 ## Contributors
 
 This application was built by [Ash O'Brien](https://github.com/AshleyOh-bit), [Beth Meeker](https://github.com/Meekb), [Claire Fields](https://github.com/clairefields15), and [Alex Kio](https://github.com/alexmkio/); Front End Engineering, Mod 3 students at the [Turing School of Software and Design](https://turing.io/).
+
+## Technologies Used
+
+This application was built using the [React](https://reactjs.org/) javascript framework with the [TypeScript](https://www.typescriptlang.org/) superset. [Router](https://reactrouter.com/) was used for multi-page functionality. [Cypress](https://www.cypress.io/) was used for testing. GitHub and Git were used for version control and collaboration. HTTP Request is being used to Get inside of an async await function.
