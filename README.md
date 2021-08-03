@@ -42,3 +42,18 @@ We started this project by creating a living ["DTR document"](https://docs.googl
 
 ## Team Member Reflections
 
+### Ash
+Typescript took a full two and a half days to learn, and came with a caveat: to use Typescript in React, it is advised to also use hooks. Undaunted, we built out an initial architecture as a team, before revising it to accommodate Router and facilitate the data movement we needed.
+
+When we had a solid architecture functioning, we realized the API had some quirks. One endpoint only returned 200s, and the data shared between endpoints was scant and difficult to manipulate. Overall, this API caused us a great deal of time with data cleaning and error handling.
+
+Finishing this project, I have a working understanding of Typescript, and a deeper understanding of React, Router, and error handling on the whole.  In the future, I will be testing my API with more gusto, and planning the architecture of the app accordingly.
+
+### Beth
+This project exemplified issues that can be encountered when api structure doesn’t match expectations. We had to do a lot of cleaning of data, and had to jump through quite a few hoops to consolidate the data we needed at first fetch. Additionally learning a new language - TypeScript - in such a short period of time was heavy lifting in the first handful of days and continued to be a challenge throughout as we learned how to utilize TS within React.
+
+### Claire
+While it seemed like a slow start initially, spending 3 days up front to watch tutorials, play in sandboxes, and learn TypeScript (and Hooks!) really paid off in the end.  Once we started coding, I didn't feel that TS was a big lift compared to JS. I am proud that in the refactoring stage, I was able to move all the component's interfaces into a types file using imports/exports and see opportunities to improve my TS flow next time.  This was the largest group project we had been a part of up to this point and we wanted to try a rebase workflow for the first time, which was maybe not the best choice in hindsight. I am glad we got some exposure to a new workflow but it led to a lot of group zoom calls sorting through merge conflicts. As others will surely mention, our API was the biggest hurdle. We had never worked with an API that did not return 404 errors for failed fetches, nor had we worked with one where the data returned was so poorly formatted, with so much information missing in some cases. Our data cleaning and error handling became much more involved than we had expected. Now I have a much better idea of what to test before committing to using an API.
+
+### Alex
+I knew going into this project that, per the usual, we were going to encounter many unforeseen difficulties along the way, but knew that if we trusted in the process and habits that have been taught up to this point that success was likely. We prioritized each other’s learning goals and committed ourselves to organization and process, and spent two days learning and playing with TypeScript before even starting to code. From there, we tackled this project with fairly consistent communication and support for one another, and found ourselves learning a litany of new things along the way.
