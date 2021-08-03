@@ -4,7 +4,7 @@ Freshly Fetched was a Mod 3 group project in the Front End program at the [Turin
 
 The project spec can be found [here](https://frontend.turing.edu/projects/module-3/stretch.html).
 
-Our project is deployed on []().
+Our project is deployed [here](https://freshly-fetched.netlify.app/).
 
 ## Install
 
@@ -16,17 +16,17 @@ Our project is deployed on []().
 
 ## Features
 
-<!-- ![Gif of the app home and movie details pages](src/readme/01.gif)
-* Gif of the home page and filtered search
+![User flow visiting the site and searching for markets within 15 miles of 90210](https://user-images.githubusercontent.com/79113236/127939612-74709b8b-4dec-476c-98f4-23c73394f469.gif)
+* User flow visiting the site and searching for markets within 15 miles of 90210
 
-![Gif of filter by day functionality and market details page](src/readme/02.gif)
-* Gif of filter by day functionality and market details page
+![User flow showing filter by day functionality, a user searches for markets on Tuesday](https://user-images.githubusercontent.com/79113236/127939722-d1f77eb6-e378-4a8e-af0a-df88af96ad7c.gif)
+* User flow showing filter by day functionality, a user searches for markets on Tuesday
 
-![Gif showing error handling](src/readme/03.gif)
-* Gif showing error handling
+![User tries to input bad zip and gets error message](https://user-images.githubusercontent.com/79113236/127943682-b56b108e-54ec-48f9-b9b6-f24fad164228.gif)
+* User tries to input bad zip and gets error message
 
-![Gif showing responsiveness of the app](src/readme/04.gif)
-* Gif showing responsiveness of the app from the most popular desktop resolution (1920x1080) to mobile layout in 428x926 (iPhone 12 Pro Max) -->
+![User clicking on a card and viewing details](https://user-images.githubusercontent.com/79113236/127943853-a3b85422-3266-4527-ad5c-f0f639bd5253.gif)
+* User clicking on a card and viewing details
 
 ## Contributors
 
@@ -42,7 +42,3 @@ We started this project by creating a living ["DTR document"](https://docs.googl
 
 ## Team Member Reflections
 
-* Ash: 
-* Beth: 
-* Claire: 
-* Alex: 
